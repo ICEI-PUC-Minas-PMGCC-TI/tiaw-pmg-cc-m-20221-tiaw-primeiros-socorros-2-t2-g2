@@ -1,15 +1,13 @@
 # Informações do Projeto
-Desconhecimento de Primeiros
+`Nome do Projeto`
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Desconhecimento em Primeiros Socorros ......
 
-Ciência da Computação
+`Curso`
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Ciência da computação ......
 
 ## Participantes
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
