@@ -1,9 +1,9 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+Desconhecimento de Primeiros
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-`CURSO` 
+Ciência da Computação
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -14,8 +14,10 @@
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - João Paulo de Castro Markiewicz
+> - Kaio Henrique Lucio e Santos
+> - Matheus Henrique Gonçalves
+> - Sócrates Augusto Marx Costa Mansur
 
 # Estrutura do Documento
 
@@ -58,12 +60,8 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
+> Nosso grupo procurou desenvolver um meio de informação e que ao mesmo 
+> tempo ofereçe praticidade e portabilidade.
 >
 > Nesse momento, o grupo pode optar por fazer uso
 > de ferramentas como Design Thinking, que permite um olhar de ponta a
