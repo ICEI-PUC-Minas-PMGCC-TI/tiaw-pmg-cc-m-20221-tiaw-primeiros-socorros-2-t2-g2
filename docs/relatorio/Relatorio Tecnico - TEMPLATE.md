@@ -74,12 +74,13 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
+>
+>O objetivo principal é cuidar para que a informação sobre primeiros socorros chegue para as pessoas por meio de um veículo acessível e eficaz.
+>
+>Dessa forma se evitam várias situações de mortes ou sequelas que não são evitadas por falta de conhecimento.
+>
+>Além disso, ser um meio para propagar informações importantes é inteiressante do ponto de vista educacional.
+>
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
@@ -87,14 +88,9 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
+> Os 10 primeiros minutos são o que importa. O assunto tratado é de extrema importância, visto que vidas podem ser perdidas por falta desse conhecimento.
 > 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
+> A falta de conhecimento sobre primeiros socorros é algo mais comum do que deveira ser, logo temos um problema a ser resolvido.
 >
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
@@ -103,17 +99,12 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
+> O público-alvo são as possíveis vítimas de acidentes, situações onde, se não precisarem de primeiros socorros, elas deverão aplicá-los.
 > 
+>Pessoas propícias a acidentes são aquelas que ficam em ambientes potencialmente perigosos, como estradas ou construções ou que estão em perigo por quadros clínicos.
+>
+>Sendo assim, caminhoneiros, trabalhadores de obras e pessoas com problemas cardiovasculares são majoritariamente o público-alvo.
+>
 > **Links Úteis**:
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
@@ -122,21 +113,19 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+> Foram realizadas reuniões de tempos em tempos para melhor organização do trabalho, sendo estas feitas pelo discord.
+> Álem disso usamos o miro para o design thinking e comunicação feita a todo momento por aplicativo de mensagem.
 
 ## Personas e Mapas de Empatia
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
 
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
+> 1. Foi feita uma persona de um caminhoneiro que sempre está exposto ao tipo de situação abordada no projeto, tendo uma vida simples, com sonhos simples e ações simples.
 > 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
+> 2. Foi feita uma persona de um motorista de aplicativo na qual está exposto a situações de risco em um grau menor que de um caminhoneiro. Apresenta um comportamento instisfeito com o trabalho atual e procura mudar de vida
+> 
+> 3. Foi feita uma persona de uma estudante, possível futura médica, na qual apresente uma vida boa, mas agitada. Primeiros socorros é uma parte essencial para o conhecimento dessa perona.
 >
 > **Links Úteis**:
 > - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
