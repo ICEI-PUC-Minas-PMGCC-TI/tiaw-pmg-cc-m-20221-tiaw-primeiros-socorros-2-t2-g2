@@ -26,13 +26,10 @@
     background-color:#ff3224;
     color: white;
     padding: 20px;
-    text-align-last: right;
+    text-align-last: center;
 }
 
-.img-acidente
+#dados-cliente
 {
-    max-height: fit-content;
-    display: block;
-    align-self: center;
+    text-align:center;
 }
-
