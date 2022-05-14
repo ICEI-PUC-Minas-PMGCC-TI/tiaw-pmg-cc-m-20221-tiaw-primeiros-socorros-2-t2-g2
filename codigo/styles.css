@@ -26,8 +26,6 @@
   text-align: center;
 }
 
-
-
 .container-footer
 {
     background-color:#ff3224;
@@ -68,4 +66,3 @@ iframe{
     scroll-snap-align: start;
     pointer-events: none;
 }
-
