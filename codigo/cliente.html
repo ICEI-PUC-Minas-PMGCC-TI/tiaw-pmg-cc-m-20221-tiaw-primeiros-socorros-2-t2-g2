@@ -13,13 +13,13 @@
 <body>
     <header class="container-header">
         <div class="row">
-            <div class="col-2">
+            <div class="col-lg-2">
               <h1 class="title">Primeiros Socorros</h1>
             </div>     
-            <div class="col-8">
+            <div class="col-sm-6, col-md-6, col-lg-4">
                 <img src="imagens/Logo.png" class="logo">
             </div>
-            <div class="col-2">
+            <div class="col-sm-6, col-md-6, col-lg-4">
               <nav class="navbar-expand-lg">
                 <div class="container-fluid">
                   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -32,9 +32,6 @@
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" href="login.html">Login</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="#">Perfil</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" href="cliente.html">Clientes</a>
@@ -51,21 +48,44 @@
     <main class="container-main">
         <div class="row">
             <div class="col-12">
+              <div class="flex-container">
                 <h1 class="title" id="dados-cliente">Dados do Cliente</h1>
-                <button id="btnCarregar">Carregar</button>
+              </div>  
             </div>
         </div>
         <div id="formularioClientes">
-            <br> Nome <input type="text" id="CampoNome">
-            Email <input type="text" id="CampoEmail"><br><br>
-            Endereço <input type="text" id="CampoEndereco">
-            Ocupação <input type="text" id="CampoOcupacao"><br><br>
+          <div class="row">
+            <div class="col-6">
+              Nome <input type="text" id="CampoNome">
+            </div>
+            <div class="col-6">
+              Email <input type="text" id="CampoEmail">
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-6">
+              Endereço <input type="text" id="CampoEndereco">
+            </div>
+            <div class="col-6">
+              Ocupação <input type="text" id="CampoOcupacao">
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-5">
+
+          </div>
+          <div class="col-6">
+            <button id="btnCarregar">Carregar</button>
             <button id="btnInserirCliente">Inserir</button>
             <button id="btnAlterarCliente">Alterar</button>
             <button id="btnExcluirCliente">Excluir</button>
             <button id="btnPesquisarCliente">Pesquisar</button>
             <button id="btnLimpar">Limpar</button>
-        </div>
+          </div>
+          <div class="col-1">
+
+          </div>
     </main>   
 
     <footer class="container-footer">

@@ -1,5 +1,6 @@
 .logo
 {
+    justify-content: left;
     max-height: 100px;
 }
 
@@ -25,8 +26,6 @@
 {
   text-align: center;
 }
-
-
 
 .container-footer
 {
@@ -69,3 +68,10 @@ iframe{
     pointer-events: none;
 }
 
+@media (max-width: 1200px)
+{
+  #titulo-logo
+   {
+    display: none;
+   }
+}
