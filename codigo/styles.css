@@ -2,6 +2,7 @@
 {
     justify-content: left;
     max-height: 100px;
+    align-self: baseline;
 }
 
 .container-header
@@ -14,6 +15,7 @@
 {
     font-size: 40px;
     padding: 10px;
+    float: left;
 }
 
 .container-main
