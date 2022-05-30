@@ -20,9 +20,10 @@
 
   #titulo-logo
   {
-      font-size: 40px;
-      padding: 10px;
-      float: left;
+    font-size: 40px;
+    padding: 10px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
   }
    
   /* remove a linha dos links */
@@ -40,11 +41,11 @@
     margin: 0px auto;
     position: relative;   
   }
-  h1{
+  form>h1{
     font-size: 48px;
     color:  black;
     padding: 2px 0 10px 0;
-    font-family: Arial,sans-serif;
+    font-family:  Arial, Helvetica, sans-serif;
     font-weight: bold;
     text-align: center;
     padding-bottom: 30px;
@@ -211,6 +212,12 @@
   -webkit-animation-name: fadeOutLeft;
   animation-name: fadeOutLeft;
 }
+
+a, a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
 /*fadeInLeft*/
 @-webkit-keyframes fadeInLeft {
     0% {
