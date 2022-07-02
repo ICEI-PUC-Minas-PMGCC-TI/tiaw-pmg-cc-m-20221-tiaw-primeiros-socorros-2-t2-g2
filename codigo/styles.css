@@ -16,6 +16,7 @@
     font-size: 40px;
     padding: 10px;
     float: left;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .container-main
@@ -27,6 +28,13 @@
 .container-main > div > div > h1
 {
   text-align: center;
+}
+
+.container-situacoes
+{
+    display: inline-flex;
+    text-align:justify;
+    flex-wrap: wrap;
 }
 
 #dinamicaJS > h1 {
@@ -132,6 +140,83 @@ iframe{
     height: 400px;
     scroll-snap-align: start;
     pointer-events: none;
+}
+
+.card{
+    border:none;
+    position:relative;
+    overflow:hidden;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+.card:before{
+    
+    content:"";
+    position:absolute;
+    left:0;
+    top:0;
+    width:4px;
+    height:100%;
+    background-color:#fd837a;
+    transform:scaleY(1);
+    transition:all 0.5s;
+    transform-origin: bottom
+}
+
+.card:after{
+    
+    content:"";
+    position:absolute;
+    left:0;
+    top:0;
+    width:4px;
+    height:100%;
+    background-color:#ff3224;
+    transform:scaleY(0);
+    transition:all 0.5s;
+    transform-origin: bottom
+}
+
+.card:hover::after{
+    transform:scaleY(1);
+}
+
+
+.fonts{
+    font-size:11px;
+}
+
+.social-list{
+    display:flex;
+    list-style:none;
+    justify-content:center;
+    padding:0;
+}
+
+.social-list li{
+    padding:10px;
+    color:#ff3224;
+    font-size:19px;
+}
+
+
+.buttons button:nth-child(1){
+       border:1px solid #ff3224 !important;
+       color:#ff3224;
+       height:40px;
+}
+
+.buttons button:nth-child(1){
+       border:1px solid #ff3224 !important;
+       background-color:#ff3224;
+       color:#fff;
+        height:40px;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
 }
 
 @media (max-width: 1200px)
