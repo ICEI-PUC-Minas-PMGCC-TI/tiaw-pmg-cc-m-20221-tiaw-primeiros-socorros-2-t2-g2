@@ -10,10 +10,10 @@
     <div class="row">
         <div class="col-sm-4, col-md-6, col-lg-8">
           
-          <a href="homepage.html">
+          
             <img class="logo" src="imagens/Logo.png">
             <div id="titulo-logo"><b>Primeiros<br> Socorros</b></div>
-          </a>
+          
         </div> 
       </div>
     </div>          
@@ -29,22 +29,17 @@
         <form method="post" action=""> 
           <h1>Login</h1> 
           <p> 
-            <label for="nome_login">Seu nome</label>
-            <input id="nome_login" name="nome_login" required="required" type="text" placeholder="ex. contato@htmlecsspro.com"/>
+            <label for="email_login">Seu email</label>
+            <input id="email_login" name="email_login" required="required" type="text" placeholder="ex. contato@htmlecsspro.com"/>
           </p>
            
           <p> 
-            <label for="email_login">Seu e-mail</label>
-            <input id="email_login" name="email_login" required="required" type="password" placeholder="ex. senha" /> 
+            <label for="senha_login">Sua senha</label>
+            <input id="senha_login" name="senha_login" required="required" type="password" placeholder="ex. senha" /> 
           </p>
            
           <p> 
-            <input type="checkbox" name="manterlogado" id="manterlogado" value="" /> 
-            <label for="manterlogado">Manter-me logado</label>
-          </p>
-           
-          <p> 
-            <input type="submit" value="Logar" /> 
+            <input class="login" type="submit" value="Logar" onclick="logar(); return false"/> 
           </p>
            
           <p class="link">
@@ -56,7 +51,7 @@
  
       <!--FORMULÁRIO DE CADASTRO-->
       <div id="cadastro">
-        <form method="post" action=""> 
+        <form class ="register" method="post" action=""> 
           <h1>Cadastro</h1> 
            
           <p> 
@@ -73,14 +68,9 @@
             <label for="senha_cad">Sua senha</label>
             <input id="senha_cad" name="senha_cad" required="required" type="password" placeholder="ex. 1234"/>
           </p>
-           
-          <p> 
-            <input type="checkbox" name="manterlogado" id="manterlogado" value="" /> 
-            <label for="manterlogado">É especialista no assunto</label>
-          </p>
 
           <p> 
-            <input type="submit" value="Cadastrar"/> 
+            <input type="submit" value="Cadastrar" onclick="cadastro(); return false"/> 
           </p>
            
           <p class="link">  
@@ -102,4 +92,5 @@
     </div>
   </footer>
 </body>
+<script src="login.js" defer></script>
 </html>
