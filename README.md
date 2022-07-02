@@ -4,7 +4,6 @@
 
 ## Alunos integrantes da equipe
 
-* João Paulo de Castro Markiewicz
 * Kaio Henrique Lucio e Santos
 * Matheus Henrique Gonçalves
 * Sócrates Augusto Marx Costa Mansur
@@ -12,7 +11,3 @@
 ## Professores responsáveis
 
 * João Carlos Oliveira Caetano
-
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
