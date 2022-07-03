@@ -22,7 +22,6 @@
 .container-main
 {
     background-color: #c9c9c9;
-    padding: 30px;
 }
 
 .container-main > div > div > h1
@@ -32,73 +31,28 @@
 
 .container-situacoes
 {
-    display: inline-flex;
-    text-align:justify;
-    flex-wrap: wrap;
-}
-
-#dinamicaJS > h1 {
     text-align: center;
+    padding: 0% 15% 0% 15%;
+    font-size: larger;
 }
 
-#dinamicaJS > #quiz {
-    text-indent: 10px;
-    display:none;
+#numeros
+{
+    padding: 4%;
+    text-align: center;
+    font-size: xx-large;
 }
 
-#dinamicaJS > .button {
-    border:4px solid;
-    border-radius:5px;
-    width: 70px;
-    padding-left:5px;
-    padding-right: 5px;
-    position: relative;
-    float:right;
-    background-color: #DCDCDC;
-    color: black;
-    margin: 0 2px 0 2px;
+#info
+{
+    padding: 0% 15% 0% 15%;
+    text-align: center;
+    font-size: larger;
 }
 
-#dinamicaJS > .button.active {
-    background-color: #F8F8FF;
-    color: #525252;
-}
-
-#dinamicaJS > button {
-    position: relative;
-    float:right;
-}
-
-#dinamicaJS > .button a {
-    text-decoration: none;
-    color: black;
-}
-
-#dinamicaJS > #container {
-    width:50%;
-    margin:auto;
-    padding: 0 25px 40px 10px;
-    background-color: #ffffff;
-    border:4px solid #B0E0E6;
-    border-radius:5px;
-    color: #000000;
-    font-weight: bold;
-    box-shadow: 5px 5px 5px #888;
-}
-
-#dinamicaJS > ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-}
-
-#dinamicaJS > #prev {
-    display:none;
-}
-
-#dinamicaJS > #start {
-    display:none;
-    width: 90px;
+#videos
+{
+    padding: 4%;
 }
 
 .container-footer
@@ -107,17 +61,6 @@
     color: white;
     padding: 20px;
     text-align-last: center;
-}
-
-#dados-cliente
-{
-    text-align:center;
-}
-
-*{
-    margin: 0;
-    padding:0;
-    box-sizing:border-box border-box;
 }
 
 #items-wrapper{
